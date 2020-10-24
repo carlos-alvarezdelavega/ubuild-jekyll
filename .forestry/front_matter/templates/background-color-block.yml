@@ -1,4 +1,13 @@
 ---
 label: background-color-block
 hide_body: false
-fields: []
+fields:
+- name: container
+  type: blocks
+  template_types:
+  - simple-header
+  config:
+    min: 1
+    max: 2
+  label: Container
+  description: This is a block container
