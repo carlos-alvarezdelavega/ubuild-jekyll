@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 2020-10-23 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -45,6 +45,7 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+  background_color_: "#F5A623"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -56,6 +57,7 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+  background_color_: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
